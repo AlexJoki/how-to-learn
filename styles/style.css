@@ -9,6 +9,7 @@
 @import url('../styles/pages/blocks/kaufman/kaufman.css');
 @import url('../styles/pages/blocks/resources/resources.css');
 @import url('../styles/pages/blocks/footer/footer.css');
+
 @keyframes rotation {
   from {
       transform: rotate(-15deg);
